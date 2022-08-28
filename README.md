@@ -15,9 +15,37 @@ KOD YAZALIM: (Bu işareti yapmak için ALT+noktalı virgüllü tuşa bas, enter�
 
 
 
+```python
+if (super) {
+ return true
+}
+```
+
+
+
+
+```
+if (super) {
+return true
+}
+```
+
 
 
 ![](https://images.unsplash.com/photo-1457131760772-7017c6180f05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1453&q=80)
+
+
+TABLO OLUŞTURALIM
+
+| İlk Başlık | İkinci Başlık |
+|---|---|
+| Birinci hücre içeriği | İkinci hücre içeriği |
+| Birinci sütun içeriği | İkinci sütun içeriği |
+
+
+
+
+
 
 Markdown Kullanım Rehberi
 Markdown, web’de metinlerin daha iyi görünmesi için kullanılan bir söz dizimidir. Bu yazımda pratik örnekler ile markdown kullanımını anlatacağım.
@@ -129,10 +157,11 @@ if (super){
 Tablo Oluşturma
 Metinde kelimeleri ayıracak tablolar oluşturmak isteyebilirsiniz. Bunun için tire ve pipe sembolleri kullanılır.
 
-İlk Başlık | İkinci Başlık
- — — — — — — | — — — — — — -
-Birinci hücre içeriği | İkinci hücre içeriği
-Birinci sütun içeriği | İkinci sütun içeriği
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 Markdown Editör
 Markdown dosyaları genellikle .md veya .markdown uzantılıdır. Markdown dosyalarınız ile çalışmak için bir editöre ihtiyacınız olabilir. Yazdığınız markdown söz dizimlerini görmek için buradaki ücretsiz editörü kullanabilirsiniz.
