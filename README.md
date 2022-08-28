@@ -1,5 +1,19 @@
 # Bu bir başlık
 ## Bu bir alt başlık
+### Üçüncü başlık
+
+
+LİSTE YAPALIM:
+- Elma
+- Armut
+- Üzüm
+
+
+KOD YAZALIM: (Bu işareti yapmak için ALT+noktalı virgüllü tuşa bas, enterın yanında, sonra boşluk tuşuna basarsan bu işaret olur)
+
+`x=[1,2,3]`
+
+
 
 
 
